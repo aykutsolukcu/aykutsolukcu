@@ -1,0 +1,58 @@
+footer {
+    
+    max-width: 30%;
+    margin:0 auto;
+}
+
+nav {
+    max-width: 30%;
+    margin:0 auto;
+}
+
+main {
+    max-width: 30%;
+    margin:0 auto;
+
+}
+
+h2 {
+    text-align: center;
+    color: burlywood;
+    background-color: rgb(181, 6, 197);
+    max-width: 50%;
+    margin:0 auto;
+    font-family: 'Licorice', cursive;
+}
+
+.cl {
+    float: left;
+    font-size:large;
+    align-self: center;
+    width: 33.333%;
+    text-align: center;
+    
+}
+
+.cl1 {
+    float: left;
+    font-size:large;
+    align-self: center;
+    width: 33.333%;
+    text-align: center;
+    background-color: rgb(136, 136, 136);
+    
+}
+
+  a:visited {
+    color: #9A0680;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #270221;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+
